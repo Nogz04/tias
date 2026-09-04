@@ -1,10 +1,5 @@
 # Respostas e conclusões
 
-Este texto foi escrito para que a análise possa ser entendida mesmo por quem está
-começando a estudar Inteligência Artificial e aprendizado de máquina. Primeiro,
-serão explicados os termos usados no trabalho. Depois, os resultados dos dois
-problemas serão analisados passo a passo.
-
 ## 1. Conceitos necessários antes da análise
 
 ### 1.1 O que é aprendizado de máquina?
