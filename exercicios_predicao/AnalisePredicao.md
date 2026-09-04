@@ -164,7 +164,7 @@ A conclusão profissional correta é: **os modelos aprenderam padrões presentes
 
 ---
 
-## 5. Sugestão de fala para a apresentação ao professor
+## 5. 
 
 ### 5.1 Introdução
 
