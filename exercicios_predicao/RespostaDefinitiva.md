@@ -1,17 +1,4 @@
-# Apresentação
-
-Este documento reúne as perguntas do enunciado, as respostas obtidas com os
-modelos, as tabelas de resultados para a apresentação.
-
-## 1. Termos utilizados nas respostas e tabelas
-
-### Modelo
-
-É um método matemático que aprende padrões nos dados para produzir uma resposta.
-Neste trabalho, cada modelo tenta classificar um cliente ou paciente na classe 0
-ou 1.
-
-Os modelos mostrados nas tabelas são:
+Modelos mostrados nas tabelas são:
 
 - **Regressão Logística:** calcula a probabilidade de cada classe;
 - **Árvore de Decisão:** aprende uma sequência de perguntas e decisões;
